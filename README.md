@@ -2,8 +2,10 @@
 
 ### About me
 
-⚡ I'm the 18 y.o. self-taught beginner programmer
+⚡ I'm the 18 y.o. self-taught beginner programmer 
+
 🌱 I'm currently studying web dev, computer science in general
+
 🔭 I'm planning to get more confident in my knowledge
 
 <!--
