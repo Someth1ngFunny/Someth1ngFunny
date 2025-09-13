@@ -1,11 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
 ### About me
 
-⚡ I'm the 18 y.o. self-taught beginner programmer 
-
-🌱 I'm currently studying web dev, computer science in general
-
+⚡ I'm the 18 y.o. self-taught beginner programmer <br>
+🌱 I'm currently studying web dev, computer science in general <br>
 🔭 I'm planning to get more confident in my knowledge
 
 <!--
